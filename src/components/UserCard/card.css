@@ -1,0 +1,6 @@
+.crad {
+    width: 200px;
+    /* height: 100px; */
+    background-color: rgb(116, 116, 116);
+    border-radius: 20px;
+}
